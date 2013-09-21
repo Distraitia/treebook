@@ -4,3 +4,10 @@ allison:
   email: "alea218@gmail.com"
   profile_name: "allisonlewis"
   encrypted_password: "$2a$10$Fh/Hm8RxDsuPTeBUr6864.GARlcmt7zF2WspaXGr3BIv2C27N.osq"
+
+laela:
+  first_name: "Laela"
+  last_name: "Lionheart"
+  email: "laela218@gmail.com"
+  profile_name: "laelalionheart"
+  # encrypted_password: "$2a$10$Fh/Hm8RxDsuPTeBUr6864.GARlcmt7zF2WspaXGr3BIv2C27N.osq"
